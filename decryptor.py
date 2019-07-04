@@ -51,8 +51,8 @@ def pad(key):
 
 
 
-user_hash = "$pbkdf2-sha512$25000$z9nbm1Oq9Z5TytkbQ8h5Dw$Vtx9YWQsgwdXpBnsa8BtO5kLOdQGflIZOQysAy7JdTVcRbv/6csQHAJCAIJT9rLFBawClFyMKnqKNL5t3Le9vg" # change this
-decrypt_key =  "utUU0jkamCZDmqFLOrAuPjFxL0zp8zWzISe5MF0GY/l8Silrmu3caqrtjaVjLQlvFFEgESGz"             # change this
+user_hash = "$pbkdf2-sha512$25000..........." # change this
+decrypt_key =  "utUU0..........."             # change this
 
 
 
